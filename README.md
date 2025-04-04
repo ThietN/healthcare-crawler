@@ -14,7 +14,7 @@ This project scrapes the MayoClinic website to extract symptoms for each disease
 1. **Clone the repository:**
     ```bash
     git clone git@github.com:samanehsalehi/Mayo-Clinic-Crawler.git
-    cd Mayo-Clinic-Crawler
+    cd healthcare_crawler
     ```
 
 2. **Install dependencies:**
@@ -40,9 +40,6 @@ This project scrapes the MayoClinic website to extract symptoms for each disease
   - The program generates a CSV file containing a row of "DOID term, DOID ID, symptom term, symptom ID", or a row of "DOID term, is-a,DOID ID".
 
 ## Contact
-
-- Samaneh Salehi Nasab
-- Email: samaneh.s@aol.com
-
+nmthiet - manhthiet302@gmail.com
 Feel free to reach out for any questions or feedback!
 
